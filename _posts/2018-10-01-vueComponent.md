@@ -4,9 +4,9 @@ date: 2018-10-01
 categories: Javascript
 ---
 
-# **Component :satisfied:
+## **Component** :satisfied:
 
-(1) 전역 컴포넌트
+### (1) 전역 컴포넌트
 
     <div id="example">
         <my-compt></my-compt>
@@ -23,10 +23,10 @@ categories: Javascript
     </script>
     
 
-(2) 지역 컴포넌트
+### (2) 지역 컴포넌트
 
 
 
 
 
-# **Props
+## **Props**
