@@ -25,6 +25,17 @@ categories: Javascript
 
 ### (2) 지역 컴포넌트
 
+    <script>
+        const Child = {
+            template: '<div>지역 컴포넌트</div>'
+        }
+
+        new Vue({
+            components: {
+                'my-compt': Child
+            }
+        })
+    </script>
 
 
 
